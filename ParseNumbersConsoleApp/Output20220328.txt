@@ -1,0 +1,8 @@
+2022-03-28 19:56:56.726 +05:30 [INF] App start
+2022-03-28 19:56:57.327 +05:30 [INF] Run
+2022-03-28 19:56:57.358 +05:30 [INF] C:\Sachin\CoreProjects\AddNodeAssignment\ParseNumbersConsoleApp\Numbers (homework task - desktop developer .NET).txt
+2022-03-28 19:56:57.360 +05:30 [INF] 1,2,3,B,5,6,7,8,A,10
+2022-03-28 19:56:57.376 +05:30 [ERR] 'B' is not number and was ignored.
+2022-03-28 19:56:57.383 +05:30 [ERR] 'A' is not number and was ignored.
+2022-03-28 19:56:57.386 +05:30 [INF] Sum of numbers : 42
+2022-03-28 19:56:57.390 +05:30 [INF] Sum of even numbers : 26
